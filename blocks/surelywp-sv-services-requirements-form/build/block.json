@@ -1,0 +1,30 @@
+{
+  "name": "surelywp/surelywp-sv-services-requirements-form",
+  "version": "0.1.0",
+  "title": "Services Requirements Form",
+  "category": "surelywp",
+  "description": "Displays a Services Requirements Form",
+  "keywords": [
+    "surelywp",
+    "services",
+    "surelywp-services",
+    "services-requirements-form"
+  ],
+  "attributes": {
+    "product_id": {
+      "type": "string",
+      "selector": "div",
+      "default": ""
+    }
+  },
+  "supports": {
+    "reusable": false,
+    "html": false
+  },
+  "textdomain": "surelywp-services",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php",
+  "viewScript": "file:./view.js"
+}

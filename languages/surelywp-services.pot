@@ -1,0 +1,2653 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Services For SureCart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-30 13:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.6\n"
+"X-Domain: surelywp-services"
+
+#: assets/js/surelywp-sv-backend.js:1212
+msgid " Only JSON File is allowed"
+msgstr ""
+
+#. %1$s: Service plural name, %2$s: Count tag HTML.
+#: includes/class-surelywp-services-admin.php:622
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#. %1$s is the total remaining services, %2$s is the plural name of the services.
+#: templates/customer-services/services.php:202
+#, php-format
+msgid "%1$s %2$s Remaining"
+msgstr ""
+
+#. %1$s is the file name, %2$s is the file size.
+#. %1$s is the file name and %2$s is the file size.
+#: templates/customer-services/product-requirements.php:152
+#: templates/tabs/requirement-tab.php:94
+#, php-format
+msgid "%1$s (%2$s)"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: includes/class-surelywp-services-ajax-handler.php:193
+#, php-format
+msgid "%s is disabled by the service provider."
+msgstr ""
+
+#. %s is the plural name of the services.
+#: templates/customer-services/services-list-table.php:88
+#: templates/customer-services/services-list-table.php:186
+#, php-format
+msgid "%s Not Found"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: includes/class-surelywp-services.php:3042
+#, php-format
+msgid "%s Request Has Been Received"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3057
+#, php-format
+msgid "%s Sent to Customer"
+msgstr ""
+
+#. %s is the product name.
+#: templates/customer-services/product-requirements.php:57
+#, php-format
+msgid "%s Service Requirements"
+msgstr ""
+
+#. %s is the prefix text.
+#: templates/tabs/contract-tab.php:44
+#, php-format
+msgid "%s Signature"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: includes/class-surelywp-services.php:3047
+#: includes/class-surelywp-services.php:3070
+#, php-format
+msgid "%s Started"
+msgstr ""
+
+#: addons-options/general-settings.php:16
+msgid "1 Days"
+msgstr ""
+
+#: addons-options/general-settings.php:44
+msgid "1 MB"
+msgstr ""
+
+#: addons-options/general-settings.php:25
+msgid "10 Days"
+msgstr ""
+
+#: addons-options/general-settings.php:46
+msgid "10 MB"
+msgstr ""
+
+#: addons-options/general-settings.php:29
+msgid "12 Hours"
+msgstr ""
+
+#: addons-options/general-settings.php:47
+msgid "15 MB"
+msgstr ""
+
+#: addons-options/general-settings.php:17
+msgid "2 Days"
+msgstr ""
+
+#: addons-options/general-settings.php:48
+msgid "20 MB"
+msgstr ""
+
+#: addons-options/general-settings.php:30
+msgid "24 Hours"
+msgstr ""
+
+#: addons-options/general-settings.php:18
+msgid "3 Days"
+msgstr ""
+
+#: addons-options/general-settings.php:19
+msgid "4 Days"
+msgstr ""
+
+#: addons-options/general-settings.php:20
+msgid "5 Days"
+msgstr ""
+
+#: addons-options/general-settings.php:45
+msgid "5 MB"
+msgstr ""
+
+#: addons-options/general-settings.php:21
+msgid "6 Days"
+msgstr ""
+
+#: addons-options/general-settings.php:22
+msgid "7 Days"
+msgstr ""
+
+#: addons-options/general-settings.php:23
+msgid "8 Days"
+msgstr ""
+
+#: addons-options/general-settings.php:24
+msgid "9 Days"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4887
+msgid "A New Service Order #{order_id} Has Been Placed"
+msgstr ""
+
+#: templates/customer-services/contract-form.php:36
+msgid "Accept"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4967
+msgid ""
+"Action Needed: Customer Requested Revisions Delivery Order #{order_id} For "
+"({product_name})"
+msgstr ""
+
+#. %s is the plural name of the services.
+#: includes/class-surelywp-services.php:1241
+#: includes/class-surelywp-services.php:1606
+#, php-format
+msgid "Action Required: %s Pending"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5025
+msgid "Action Required: Provide Details For Order #{order_id}"
+msgstr ""
+
+#: templates/admin/service-view.php:85
+msgid "Actions"
+msgstr ""
+
+#: addons-options/addons-settings.php:77
+msgid "Activate"
+msgstr ""
+
+#: addons-options/addons-settings.php:40
+msgid "Active"
+msgstr ""
+
+#: templates/tabs/activity-tab.php:14 templates/tabs/tabs-lists.php:17
+msgid "Activity"
+msgstr ""
+
+#: blocks/surelywp-sv-customer-services/src/edit.js:90
+msgid "Add A Title..."
+msgstr ""
+
+#: addons-options/general-settings.php:231
+msgid "Add Custom Mime Types"
+msgstr ""
+
+#: addons-options/settings.php:793
+msgid "Add New Milestone"
+msgstr ""
+
+#: addons-options/settings.php:539
+msgid "Add New Option"
+msgstr ""
+
+#: addons-options/settings.php:611
+msgid "Add New Requirement"
+msgstr ""
+
+#: addons-options/settings.php:95
+msgid "Add New Service"
+msgstr ""
+
+#: addons-options/overview.php:45
+msgid "Add Your License Key"
+msgstr ""
+
+#: addons-options/settings.php:95 addons-options/settings.php:611
+#: addons-options/settings.php:793
+msgid "add_new"
+msgstr ""
+
+#: addons-options/settings.php:538
+msgid "add_new_dropdown"
+msgstr ""
+
+#: addons-options/settings.php:647
+msgid "After Add To Cart And Buy Now Buttons"
+msgstr ""
+
+#: addons-options/settings.php:643
+msgid "After Description"
+msgstr ""
+
+#: addons-options/settings.php:637
+msgid "After Price"
+msgstr ""
+
+#: addons-options/settings.php:639
+msgid "After Pricing Options"
+msgstr ""
+
+#: addons-options/settings.php:645
+msgid "After Quantity Selector"
+msgstr ""
+
+#: addons-options/settings.php:641
+msgid "After Title"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:457
+#: includes/class-surelywp-services-ajax-handler.php:515
+#: includes/class-surelywp-services-ajax-handler.php:678
+#: includes/class-surelywp-services-ajax-handler.php:759
+#: includes/class-surelywp-services-ajax-handler.php:818
+#: includes/class-surelywp-services-ajax-handler.php:900
+#: includes/class-surelywp-services-ajax-handler.php:946
+#: includes/class-surelywp-services-ajax-handler.php:1119
+#: includes/class-surelywp-services-ajax-handler.php:1232
+#: includes/class-surelywp-services-ajax-handler.php:1433
+#: includes/class-surelywp-services-ajax-handler.php:1507
+#: includes/class-surelywp-services-ajax-handler.php:1584
+msgid "Ajax Nonce Not Verify"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:1638
+msgid "Ajax Nonce Not Verify."
+msgstr ""
+
+#: templates/admin/services-list-table.php:53
+msgid "All"
+msgstr ""
+
+#: addons-options/settings.php:212
+msgid "All Products"
+msgstr ""
+
+#: assets/js/surelywp-sv-backend.js:1241
+msgid "All Settings Of Services Plugin Imported Successfully."
+msgstr ""
+
+#: addons-options/settings.php:294
+msgid ""
+"Allow customers to create and manage services based on their subscription "
+"billing cycles. This feature is only available for SureCart products with "
+"subscription-based pricing and does not apply to one-time purchases or "
+"installment plans."
+msgstr ""
+
+#: addons-options/general-settings.php:208
+msgid "Allow File Uploads"
+msgstr ""
+
+#: addons-options/general-settings.php:220
+msgid "Allowed Files Types"
+msgstr ""
+
+#: templates/admin/block-service-list-table.php:14
+#: templates/admin/service-view-block.php:26
+msgid "AMOUNT"
+msgstr ""
+
+#: templates/panels/order-detail-panel.php:61
+msgid "Amount:"
+msgstr ""
+
+#: templates/customer-services/services.php:734
+#: templates/customer-services/services.php:747
+#, php-format
+msgid "Approve %s delivery"
+msgstr ""
+
+#: templates/customer-services/services.php:591
+#: templates/customer-services/services.php:603
+msgid "Approve Final Delivery"
+msgstr ""
+
+#: templates/customer-services/services.php:568
+#: templates/customer-services/services.php:703
+msgid "Are you pleased with the delivery and ready to approve It?"
+msgstr ""
+
+#: addons-options/settings.php:805
+msgid "Are you sure you want to delete this service configuration?"
+msgstr ""
+
+#: templates/admin/services-list-table.php:107
+msgid ""
+"Are you sure you want to delete this service? When a service is deleted, all "
+"related data, including activities, contracts, messages, requirements, "
+"deliveries, and associated files, will also be permanently deleted."
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/admin/service-view.php:150
+#, php-format
+msgid "Are you sure you wish to cancel the %s?"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/admin/service-view.php:144
+#, php-format
+msgid "Are you sure you wish to complete the %s?"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/admin/service-view.php:156
+#, php-format
+msgid "Are you sure you wish to start the %s?"
+msgstr ""
+
+#: addons-options/settings.php:429
+msgid "Ask For Service Requirements"
+msgstr ""
+
+#: templates/admin/product-service-block.php:44
+msgid ""
+"Associate this product with a specific service. You can add new services or "
+"manage existing ones in the SurelyWP addon settings. NOTE: Services will not "
+"appear in the dropdown if they are already associated with another specific "
+"product, or if a different service is set to apply to all products or the "
+"collection that this product belongs to."
+msgstr ""
+
+#: addons-options/settings.php:124 addons-options/settings.php:206
+msgid "Associated Products"
+msgstr ""
+
+#: templates/admin/product-service-block.php:44
+msgid "Associated Service"
+msgstr ""
+
+#: templates/tabs/delivery-tab.php:62
+msgid "ATTACHMENTS"
+msgstr ""
+
+#: blocks/surelywp-sv-services-alert/src/edit.js:66
+#: blocks/surelywp-sv-services-requirements-form/src/edit.js:49
+msgid "Attributes"
+msgstr ""
+
+#: addons-options/general-settings.php:155
+msgid "Auto Complete Order After"
+msgstr ""
+
+#: addons-options/general-settings.php:143
+msgid "Auto Complete Orders"
+msgstr ""
+
+#: addons-options/settings.php:341
+msgid "Automatically Create A New Service For Each Billing Cycle"
+msgstr ""
+
+#: templates/surecart-customer-template/template-surecart-dashboard.php:88
+msgid "Back Home"
+msgstr ""
+
+#: addons-options/overview.php:129
+msgid ""
+"Be sure to  check out our other helpful addons for SureCart admins and store "
+"owners!"
+msgstr ""
+
+#: addons-options/settings.php:811 templates/customer-services/services.php:601
+#: templates/customer-services/services.php:667
+#: templates/customer-services/services.php:745
+#: templates/customer-services/services.php:811
+#: templates/panels/delivery-date-panel.php:48
+#: templates/panels/delivery-date-panel.php:103
+msgid "Cancel"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/admin/service-view.php:106
+#, php-format
+msgid "Cancel %s"
+msgstr ""
+
+#: templates/admin/service-view.php:167
+msgid "Cancel Service"
+msgstr ""
+
+#: templates/panels/plan-detail-panel.php:68
+msgid "Canceled"
+msgstr ""
+
+#: templates/admin/services-list-table.php:111
+msgid "Cancle"
+msgstr ""
+
+#: includes/class-surelywp-services-admin.php:970
+msgid "Changelog"
+msgstr ""
+
+#: addons-options/settings.php:157
+msgid "Choose enable or disable this service."
+msgstr ""
+
+#: addons-options/settings.php:209
+msgid "Choose Products For Services"
+msgstr ""
+
+#: addons-options/general-settings.php:133
+msgid ""
+"Choose the amount of time after the order is place to send a reminder email "
+"to the customer if they have not yet submitted the requirements."
+msgstr ""
+
+#: addons-options/general-settings.php:156
+msgid ""
+"Choose the number of days after the deliver is sent to automatically "
+"complete the order if the customer does not approve the final delivery."
+msgstr ""
+
+#. %s is the last service ID.
+#: addons-options/general-settings.php:171
+#, php-format
+msgid ""
+"Choose the starting service ID number assigned to each new service. The "
+"service IDs will be sequential by default. NOTE: The starting number must be "
+"greater than the largest existing service number. Current largest service "
+"number: %s "
+msgstr ""
+
+#: addons-options/general-settings.php:221
+msgid ""
+"Choose the type of files allowed to be uploaded in the requirement details, "
+"messages, and final delivery. Keep in mind that WordPress or your hosting "
+"server may have restrictions on certain file types. Ensure the selected file "
+"types are compatible with your systems to avoid issues."
+msgstr ""
+
+#: addons-options/general-settings.php:209
+msgid "Choose to allow file uploads within services."
+msgstr ""
+
+#: addons-options/general-settings.php:144
+msgid ""
+"Choose to automatically complete orders if the customer does not approve the "
+"final delivery after a specific number of days."
+msgstr ""
+
+#: addons-options/settings.php:616
+msgid ""
+"Choose to display the service requirements form on the product page for the "
+"customer to provide customization or service details before placing their "
+"order."
+msgstr ""
+
+#: addons-options/settings.php:370
+msgid ""
+"Choose to enable a contract and digital signature field for the customer to "
+"confirm they agree to the contract details about this service before "
+"starting on their order."
+msgstr ""
+
+#: addons-options/email-templates.php:136
+msgid "Choose to enable or disable sending for this email."
+msgstr ""
+
+#: addons-options/settings.php:430
+msgid ""
+"Choose to enable service requirements for the customer to provide details "
+"about this service before starting on their order."
+msgstr ""
+
+#: addons-options/settings.php:546
+msgid ""
+"Choose to make this a required field. If enabled, the customer must enter "
+"text in this field in order to submit the requirements."
+msgstr ""
+
+#: addons-options/settings.php:547
+msgid ""
+"Choose to make this a required field. If enabled, the customer must select "
+"the option from dropdown in order to submit the requirements."
+msgstr ""
+
+#: addons-options/settings.php:545
+msgid ""
+"Choose to make this a required field. If enabled, the customer must upload a "
+"file to this field in order to submit the requirements."
+msgstr ""
+
+#: addons-options/general-settings.php:121
+msgid ""
+"Choose to redirect the customer to the individual service page rather than "
+"the Customer Dashboard after they complete the checkout in SureCart."
+msgstr ""
+
+#: addons-options/settings.php:737
+msgid ""
+"Choose to require approval from the customer for this milestone to be "
+"completed. If enabled, the customer must approve the milestone before moving "
+"on to the next step. The customer will be given opportunity to request "
+"revisions as needed before approving the milestone."
+msgstr ""
+
+#: addons-options/settings.php:634
+msgid ""
+"Choose where to show the service requirements form on default SureCart "
+"product pages based on relative position to the other elements."
+msgstr ""
+
+#: addons-options/settings.php:354
+msgid ""
+"Choose whether unused services should expire at the end of their "
+"subscription billing cycle or custom frequency, or if they should roll over "
+"and accumulate into the next period. Rollover can be useful for customers "
+"who may not fully utilize their service quota within a given period."
+msgstr ""
+
+#: addons-options/settings.php:210
+msgid "Choose which SureCart products you want to associate with this service."
+msgstr ""
+
+#: includes/class-surelywp-services.php:4336
+#: includes/class-surelywp-services.php:4480
+msgid "Click Here"
+msgstr ""
+
+#: addons-options/settings.php:477 addons-options/settings.php:527
+#: addons-options/settings.php:718
+msgid "close"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/admin/service-view.php:99
+#, php-format
+msgid "Complete %s"
+msgstr ""
+
+#: templates/admin/service-view.php:165
+msgid "Complete Service"
+msgstr ""
+
+#: templates/admin/services-list-table.php:103
+#: templates/admin/service-view.php:134
+msgid "Confirm"
+msgstr ""
+
+#: addons-options/settings-options.php:40
+msgid "Confirm Reset"
+msgstr ""
+
+#: addons-options/overview.php:112
+msgid "Contact Us"
+msgstr ""
+
+#: templates/customer-services/services.php:155
+msgid "Continue"
+msgstr ""
+
+#: addons-options/settings.php:130 addons-options/settings.php:367
+#: templates/customer-services/contract-form.php:22
+#: templates/tabs/tabs-lists.php:23 templates/tabs/contract-tab.php:18
+#: templates/admin/service-view.php:400
+msgid "Contract"
+msgstr ""
+
+#: addons-options/settings.php:382
+msgid "Contract Details"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3044
+#: includes/class-surelywp-services.php:3067
+#: templates/panels/status-tracker-panel.php:54
+msgid "Contract Signed"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:1220
+msgid "Contract Submitted Successfully"
+msgstr ""
+
+#: templates/admin/block-service-list-table.php:15
+#: templates/admin/service-view-block.php:27
+msgid "Created"
+msgstr ""
+
+#. %s is the service creation date.
+#: templates/customer-services/services.php:341
+#: templates/admin/service-view.php:306
+#, php-format
+msgid "Created on %s"
+msgstr ""
+
+#: addons-options/settings.php:322 addons-options/settings.php:327
+msgid "Custom Frequency"
+msgstr ""
+
+#: addons-options/email-templates.php:68 templates/tabs/contract-tab.php:38
+msgid "Customer"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3058
+#, php-format
+msgid "Customer Approved %s delivery"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3052
+msgid "Customer Approved Final Delivery"
+msgstr ""
+
+#: templates/panels/order-detail-panel.php:31
+msgid "Customer Name:"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3051
+msgid "Customer Requested Revisions"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4966
+msgid "Customer Requested Revisions Notification Email"
+msgstr ""
+
+#: addons-options/general-settings.php:261
+msgid "Customer Services List"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3045
+msgid "Customer Submitted Requirements"
+msgstr ""
+
+#: addons-options/settings.php:330
+msgid "Daily"
+msgstr ""
+
+#: templates/customer-services/services.php:95
+#: templates/customer-services/services.php:178
+#: templates/customer-services/services.php:317
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:361
+#: templates/customer-services/services-list-table.php:17
+#: templates/customer-services/services-list-table.php:132
+msgid "Date"
+msgstr ""
+
+#: templates/panels/delivery-date-panel.php:18
+msgid "Days"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5027
+msgid ""
+"Dear {customer_name},\n"
+"\n"
+"Thank you for your order #{order_id} for {product_name}. We're excited to "
+"get started!\n"
+"\n"
+"If you have not yet provided the services requirement details, please go to "
+"your customer dashboard and provide that information before we can proceed. "
+"Please submit this information as soon as possible so we can start working "
+"on your order. You can easily submit the details by clicking the link below:"
+"\n"
+"{service_link}\n"
+"\n"
+"If you have any questions about what information is needed, please don't "
+"hesitate to reply to this email, and we will be happy to help!\n"
+"\n"
+"Sincerely,\n"
+"The {website_name} Team"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5049
+msgid ""
+"Dear {customer_name},\n"
+"\n"
+"We hope you're doing well! We are just following up on your recent order "
+"(Order #{order_id}) for {product_name}. We are excited to get started and "
+"deliver it to you as soon as possible.\n"
+"\n"
+"However, we have not yet received the required information about your order. "
+"We kindly ask you to provide the information as soon as possible to ensure "
+"we can start working on your order and get it delivered to you sooner! You "
+"can easily submit the details by clicking the link below:\n"
+"{service_link}\n"
+"\n"
+"We understand that things can get busy, so if you need a bit more time to "
+"gather the information, please let us know. If you have any questions about "
+"what information is needed, please don't hesitate to reply to this email, "
+"and we'll be happy to assist you.\n"
+"\n"
+"Sincerely,\n"
+"The {website_name} Team"
+msgstr ""
+
+#: addons-options/general-settings.php:114
+msgid "Default Delivery Deadline Days"
+msgstr ""
+
+#: addons-options/settings.php:328
+msgid ""
+"Define the custom frequency for determining the number of allowed services. "
+"Options include daily, weekly, monthly, or yearly, but the selected "
+"frequency must not exceed the subscription billing period. For example, a "
+"subscription billed yearly can allow services on any frequency, while a "
+"subscription billed weekly can only allow weekly or daily frequencies."
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:390
+msgid "Delete"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/admin/service-view.php:120
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: addons-options/settings.php:812 templates/admin/services-list-table.php:112
+msgid "Delete Service"
+msgstr ""
+
+#: addons-options/settings.php:808
+msgid ""
+"Deleting this service will also cancel any associated services with a status "
+"that is not completed. This action cannot be undone."
+msgstr ""
+
+#: templates/panels/delivery-date-panel.php:24
+msgid "Deliver Now"
+msgstr ""
+
+#: addons-options/settings.php:263 templates/tabs/delivery-tab.php:123
+#: templates/tabs/tabs-lists.php:32
+msgid "Delivery"
+msgstr ""
+
+#. %1$s is the delivery number.
+#: templates/tabs/delivery-tab.php:38
+#, php-format
+msgid "Delivery #%1$s"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4993
+msgid "Delivery Approved By The Customer Notification Email"
+msgstr ""
+
+#: templates/customer-services/services.php:374
+#: templates/admin/service-view.php:351
+msgid "Delivery Date"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3049
+#: includes/class-surelywp-services.php:3071
+msgid "Delivery Date Changed"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5092
+msgid "Delivery Date Changed Notification Email"
+msgstr ""
+
+#: templates/panels/status-tracker-panel.php:111
+msgid "Delivery Date: "
+msgstr ""
+
+#: addons-options/settings.php:265
+msgid "Delivery Deadline Days"
+msgstr ""
+
+#: blocks/surelywp-sv-services-alert/src/edit.js:73
+msgid "Description"
+msgstr ""
+
+#: templates/customer-services/services-list-table.php:19
+#: templates/customer-services/services-list-table.php:152
+msgid "Details"
+msgstr ""
+
+#: addons-options/settings.php:410
+msgid "Digital Signature"
+msgstr ""
+
+#: addons-options/settings.php:415
+msgid "Digital Signature Field Description"
+msgstr ""
+
+#: addons-options/settings.php:407
+msgid "Digital Signature Field Title"
+msgstr ""
+
+#: addons-options/settings.php:34 addons-options/settings.php:36
+#: addons-options/email-templates.php:37 addons-options/email-templates.php:83
+msgid "Disabled"
+msgstr ""
+
+#: templates/customer-services/services-alert.php:48
+#: blocks/surelywp-sv-services-alert/src/save.js:36
+#: blocks/surelywp-sv-services-alert/src/edit.js:99
+msgid "Dismiss"
+msgstr ""
+
+#: addons-options/settings.php:615
+msgid "Display Requirements Form On Product Page"
+msgstr ""
+
+#: addons-options/settings-options.php:126
+msgid "Documantation"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4322
+#: templates/emails/customer-requirements.php:73
+msgid "Download"
+msgstr ""
+
+#: addons-options/import-export-tab.php:17
+msgid ""
+"Download a file containing all of your current plugin settings. This file "
+"can be used as a backup or as a template to apply the same configuration on "
+"another site."
+msgstr ""
+
+#: addons-options/settings.php:462 addons-options/settings.php:463
+#: addons-options/settings.php:480 addons-options/settings.php:524
+#: addons-options/settings.php:703 addons-options/settings.php:704
+#: addons-options/settings.php:721
+msgid "drag"
+msgstr ""
+
+#: assets/js/surelywp-sv-front.js:75 assets/js/surelywp-sv-front.js:97
+#: assets/js/surelywp-sv-backend.js:218 assets/js/surelywp-sv-common.js:33
+msgid "Drag & Drop your files"
+msgstr ""
+
+#: addons-options/settings.php:503
+msgid "Dropdown"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:204
+#: templates/panels/order-detail-panel.php:38
+msgid "Edit Customer"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:254
+msgid "Edit Order"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:282
+msgid "Edit Product"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:357
+msgid "Email"
+msgstr ""
+
+#: addons-options/email-templates.php:29 addons-options/email-templates.php:75
+msgid "email"
+msgstr ""
+
+#: addons-options/email-templates.php:157
+msgid "Email Body"
+msgstr ""
+
+#: addons-options/email-templates.php:148
+msgid "Email Subject"
+msgstr ""
+
+#: includes/class-surelywp-services-admin.php:965
+msgid "Email Templates"
+msgstr ""
+
+#: addons-options/email-templates.php:55 addons-options/email-templates.php:101
+msgid "email_edit"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/admin/product-service-block.php:33
+#, php-format
+msgid "Enable %s"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/admin/product-service-block.php:38
+#, php-format
+msgid "Enable %s features for this product."
+msgstr ""
+
+#: addons-options/settings.php:369
+msgid "Enable Contract And Require Digital Signature"
+msgstr ""
+
+#: addons-options/email-templates.php:135
+msgid "Enable Email"
+msgstr ""
+
+#: addons-options/settings.php:594
+msgid "Enable Rich Text Editor For Customer"
+msgstr ""
+
+#: addons-options/settings.php:156
+msgid "Enable Service"
+msgstr ""
+
+#: addons-options/settings.php:293
+msgid "Enable Subscription-Based Service Creation"
+msgstr ""
+
+#: addons-options/settings.php:342
+msgid ""
+"Enable this option to automatically create and start a new service each time "
+"a subscription billing cycle renews. This is particularly helpful for anyone "
+"who wants at least one service to begin without requiring the customer to "
+"manually create it, regardless of whether the limit for services per cycle "
+"is one or more."
+msgstr ""
+
+#: addons-options/settings.php:750
+msgid ""
+"Enable this option to set a limit on the number of revisions the customer "
+"can request. If disabled, the customer can request unlimited revisions."
+msgstr ""
+
+#: addons-options/settings.php:192
+msgid ""
+"Enable this setting to add an \"Order Again\" button in the induvial service "
+"Order Details section in the sidebar after the service is completed. When "
+"clicked, it will initiate the \"Buy Now\" feature, placing the same product "
+"configuration into the checkout for quick reordering."
+msgstr ""
+
+#: addons-options/settings.php:595
+msgid ""
+"Enable this setting to display a rich text editor for the text area field, "
+"allowing customers to format their text with options such as bold, italics, "
+"underline, links, and lists."
+msgstr ""
+
+#: addons-options/settings.php:34 addons-options/email-templates.php:37
+#: addons-options/email-templates.php:39 addons-options/email-templates.php:83
+#: addons-options/email-templates.php:85
+msgid "Enabled"
+msgstr ""
+
+#: addons-options/settings.php:147
+msgid "Enter a title for the service."
+msgstr ""
+
+#: addons-options/settings.php:487
+msgid ""
+"Enter a unique admin label for this field. This label is for internal "
+"reference and will help you easily identify the field within the form "
+"settings. It does not appear on the frontend."
+msgstr ""
+
+#: addons-options/general-settings.php:191
+msgid ""
+"Enter custom text to display in the Customer Dashboard menu for the services "
+"tab. "
+msgstr ""
+
+#: addons-options/email-templates.php:158
+msgid "Enter custom text you want to use for email body."
+msgstr ""
+
+#: addons-options/email-templates.php:149
+msgid "Enter custom text you want to use for email subject."
+msgstr ""
+
+#: addons-options/general-settings.php:100
+msgid ""
+"Enter email addresses of the recipients who should receive email "
+"notifications for services."
+msgstr ""
+
+#: addons-options/settings.php:283
+msgid ""
+"Enter the maximum number of services that can be created from a single order."
+" This applies to one-time purchases and installment plans. When the number "
+"is greater than one, a button will appear in the customer dashboard, "
+"allowing customers to create new services as needed within their limit."
+msgstr ""
+
+#: addons-options/settings.php:307
+msgid ""
+"Enter the maximum number of services that can be created per subscription "
+"billing cycle or a custom frequency. Ensure this value is set appropriately "
+"to balance customer needs and subscription management. When the number is "
+"greater than one, a button will appear in the customer dashboard, allowing "
+"customers to create new services as needed within their limit."
+msgstr ""
+
+#: addons-options/general-settings.php:197
+msgid ""
+"Enter the name of an icon from https://feathericons.com/ to display as the "
+"icon in the Customer Dashboard menu for the services tab. "
+msgstr ""
+
+#: addons-options/general-settings.php:232
+msgid ""
+"Enter the new MIME type you want to allow for file uploads. Keep in mind "
+"that WordPress or your hosting server may have restrictions on certain file "
+"types, and the email inboxes of both the customer and admin might also have "
+"limitations that could affect file delivery. Ensure the selected file types "
+"are compatible with these systems to avoid issues."
+msgstr ""
+
+#: addons-options/general-settings.php:115
+msgid ""
+"Enter the number of days for the default delivery deadline after the order "
+"requirements are submitted."
+msgstr ""
+
+#: addons-options/settings.php:266
+msgid ""
+"Enter the number of days for the default delivery deadline after the order "
+"requirements are submitted. This delivery date only affects this service and "
+"overrides the default delivery days setting in the general settings."
+msgstr ""
+
+#: addons-options/general-settings.php:185
+msgid ""
+"Enter the plural term you want to use instead of \"Services.\" This will "
+"replace the word \"Services\" across the interface where multiple services "
+"are referenced. For example, if you offer coaching, you might enter "
+"\"Coaching Calls\" instead."
+msgstr ""
+
+#: addons-options/general-settings.php:179
+msgid ""
+"Enter the singular term you want to use instead of \"Service.\" This will "
+"replace the word \"Service\" across the interface where a single service is "
+"referenced. For example, if you offer coaching, you might enter \"Coaching "
+"Call\" instead."
+msgstr ""
+
+#: templates/customer-services/contract-form.php:30
+msgid "Enter Your Name..."
+msgstr ""
+
+#: addons-options/settings.php:356
+msgid "Expire"
+msgstr ""
+
+#: addons-options/overview.php:128
+msgid "Explore Our Other SurelyWP Addons"
+msgstr ""
+
+#: addons-options/import-export-tab.php:22
+msgid "Export All Settings"
+msgstr ""
+
+#: addons-options/import-export-tab.php:16
+msgid "Export Settings"
+msgstr ""
+
+#: templates/panels/delivery-date-panel.php:27
+#: templates/panels/delivery-date-panel.php:38
+msgid "Extend Delivery Date"
+msgstr ""
+
+#: addons-options/overview.php:93
+msgid "Feature Requests"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:1484
+msgid "fetched new message"
+msgstr ""
+
+#: addons-options/settings.php:486 addons-options/settings.php:727
+msgid "Field Label"
+msgstr ""
+
+#: addons-options/settings.php:501
+msgid "File Upload"
+msgstr ""
+
+#: addons-options/general-settings.php:246
+msgid "File Upload Size Limit"
+msgstr ""
+
+#: addons-options/general-settings.php:206
+msgid "Files"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4833
+msgid "Final Delivery"
+msgstr ""
+
+#: templates/panels/status-tracker-panel.php:146
+msgid "Final Delivery Approved"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5116
+msgid "Final Delivery Notification Email"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3050
+msgid "Final Delivery Sent to Customer"
+msgstr ""
+
+#: blocks/surelywp-sv-services-requirements-form/src/edit.js:62
+msgid "First Requirement"
+msgstr ""
+
+#: addons-options/settings.php:121 addons-options/settings.php:144
+#: addons-options/general-settings.php:77
+msgid "General"
+msgstr ""
+
+#: includes/class-surelywp-services-admin.php:955
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5047
+msgid "Gentle Reminder: Complete Your Order For {product_name} (#{order_id})"
+msgstr ""
+
+#: addons-options/overview.php:108
+msgid "Get Support"
+msgstr ""
+
+#: templates/admin/service-view.php:163
+msgid "Go Back"
+msgstr ""
+
+#. %s is the plural name of the services.
+#: templates/customer-services/services-alert.php:45
+#, php-format
+msgid "Go To %s"
+msgstr ""
+
+#: blocks/surelywp-sv-services-alert/src/save.js:33
+#: blocks/surelywp-sv-services-alert/src/edit.js:96
+msgid "Go To Services"
+msgstr ""
+
+#: templates/customer-services/services.php:741
+#, php-format
+msgid ""
+"Got everything you need? Great! Once you approve this delivery, your %s will "
+"be marked as complete."
+msgstr ""
+
+#: templates/customer-services/services.php:597
+msgid ""
+"Got everything you need? Great! Once you approve this delivery, your order "
+"will be marked as complete."
+msgstr ""
+
+#: includes/class-surelywp-services.php:4994
+msgid ""
+"Great news! Yours Customer Approved The Final Delivery For Order #{order_id} "
+"For {product_name}"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5119
+msgid ""
+"Hi {customer_name},\n"
+"\n"
+"We are pleased to inform you that your service for {product_name} has been "
+"successfully delivered!\n"
+"\n"
+"<b>Service Details:</b>\n"
+"Service ID: {service_id}\n"
+"Order ID: {order_id}\n"
+"Product: {product_name}\n"
+"\n"
+"<b>Review And Approve Your Delivery:</b>\n"
+"Please take a moment to review and approve the final delivery. If you're "
+"happy with it, you can easily approve it by clicking the link below:\n"
+"{service_link}\n"
+"\n"
+"We hope you're happy with your completed service! If you need any additional "
+"revisions, or if you have any questions or concerns about the service "
+"provided, please let us know by responding within the website.\n"
+"\n"
+"Sincerely,\n"
+"The {website_name} Team"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5095
+msgid ""
+"Hi {customer_name},\n"
+"\n"
+"We're reaching out to inform you that the delivery date for your service for "
+"{product_name} has been changed.\n"
+"\n"
+"The new delivery date is {delivery_date}. We understand this may be an "
+"inconvenience, and we sincerely apologize for the delay. We are doing "
+"everything we can to ensure that your service reaches you as soon as "
+"possible.\n"
+"\n"
+"If you have any questions or concerns about the revised delivery date, "
+"please don't hesitate to send us a message on the website:\n"
+"{service_link}\n"
+"\n"
+"Thank you for your understanding and patience.\n"
+"\n"
+"Sincerely,\n"
+"The {website_name} Team"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5071
+msgid ""
+"Hi {customer_name},\n"
+"\n"
+"You have a new message from {service_provider_name}, the service provider "
+"for your order (Order #{order_id}) for {product_name}.\n"
+"\n"
+"<b>Message:</b>\n"
+"{message_content}\n"
+"\n"
+"<b>Next Steps:</b>\n"
+"You can view the message and respond directly to the service provider within "
+"the website using the link below:\n"
+"{service_link}\n"
+"\n"
+"Sincerely,\n"
+"The {website_name} Team"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4889
+msgid ""
+"Hi {service_provider_name},\n"
+"\n"
+"A new service order has been placed by a customer!\n"
+"\n"
+"<b>Order Details:</b>\n"
+"Service ID: {service_id}\n"
+"Order ID: {order_id}\n"
+"Product: {product_name}\n"
+"Customer Name: {customer_name}\n"
+"Customer Email Address: {customer_email}\n"
+"\n"
+"<b>Next Steps:</b>\n"
+"To view the service details, please click the link below:\n"
+"{service_link}\n"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4915
+msgid ""
+"Hi {service_provider_name},\n"
+"\n"
+"Great news! Your customer has submitted the required service details for "
+"their order.\n"
+"\n"
+"<b>Order Details:</b>\n"
+"Service ID: {service_id}\n"
+"Order ID: {order_id}\n"
+"Product: {product_name}\n"
+"Customer Name: {customer_name}\n"
+"Customer Email Address: {customer_email}\n"
+"\n"
+"<b>Service Requirements:</b>\n"
+"{requirements}\n"
+"\n"
+"<b>Next Steps:</b>\n"
+"Please review the submitted requirements and proceed with fulfilling the "
+"service at your earliest convenience. You can access the order details and "
+"communicate with the customer directly within the website. You can access "
+"the service details with this link: \n"
+"{service_link}"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4969
+msgid ""
+"Hi {service_provider_name},\n"
+"\n"
+"The customer has requested revisions for the order #{order_id} "
+"({product_name}).\n"
+"\n"
+"<b>Order Details:</b>\n"
+"Service ID: {service_id}\n"
+"Order ID: {order_id}\n"
+"Product: {product_name}\n"
+"Customer Name: {customer_name}\n"
+"Email Address: {customer_email}\n"
+"\n"
+"<b>Next Steps:</b>\n"
+"The customer may have already provided additional details about revisions "
+"needed within the website, so be sure to check their messages for any "
+"additional information.\n"
+"\n"
+"You can access the order details and communicate with the customer directly "
+"within the website using the link below:\n"
+"{service_link}"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4996
+msgid ""
+"Hi {service_provider_name},\n"
+"\n"
+"We're happy to inform you that the customer has approved the final delivery "
+"for Order #{order_id} ({product_name})!\n"
+"\n"
+"<b>Order Details:</b>\n"
+"Service ID: {service_id}\n"
+"Order ID: {order_id}\n"
+"Product: {product_name}\n"
+"Customer Name: {customer_name}\n"
+"Email Address: {customer_email}\n"
+"\n"
+"<b>Next Steps (Optional):</b>\n"
+"Depending on your service and post-delivery needs, you may want to consider "
+"reaching out to the customer:\n"
+"\n"
+"<b>Thank You Message:</b> A quick thank-you message for their approval and "
+"business can be a nice touch.\n"
+"<b>Follow-up Survey:</b> If you gather customer feedback, you can send a "
+"brief survey to understand their experience.\n"
+"<b>Delivery Instructions (Optional):</b> If the product or service requires "
+"specific instructions for use, you can send them to the customer at this "
+"point.\n"
+"\n"
+"You can access the order details and communicate with the customer directly "
+"within the app using the link below:\n"
+"{service_link}"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4943
+msgid ""
+"Hi {service_provider_name},\n"
+"\n"
+"You have a new message from a customer regarding their order for "
+"{product_name} (Order #{order_id}).\n"
+"\n"
+"<b>Customer Details:</b>\n"
+"Service ID: {service_id}\n"
+"Customer Name: {customer_name}\n"
+"Email Address: {customer_email}\n"
+"\n"
+"<b>Message:</b>\n"
+"{message_content}\n"
+"\n"
+"<b>Next Steps:</b>\n"
+"You can view the message and respond directly to the customer within the "
+"website using the link below:\n"
+"{service_link}"
+msgstr ""
+
+#: templates/panels/delivery-date-panel.php:19
+msgid "Hours"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://surelywp.com"
+msgstr ""
+
+#: templates/customer-services/services.php:581
+#: templates/customer-services/services.php:724
+msgid "I Need Some Revisions"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:355
+#: templates/customer-services/services-list-table.php:14
+#: templates/customer-services/services-list-table.php:115
+msgid "ID"
+msgstr ""
+
+#: addons-options/settings.php:659
+msgid ""
+"If you are not using the default SureCart product pages but are displaying "
+"your SureCart products on other pages or post types using the WordPress "
+"block editor, you can place the Services Requirements Form] block anywhere "
+"in your content. This block will display the associated service's "
+"requirements form."
+msgstr ""
+
+#: addons-options/settings.php:653
+msgid ""
+"If you are not using the default SureCart product pages but are displaying "
+"your SureCart products on other pages or post types, you can place the "
+"shortcode [surelywp_services_requirements_form] anywhere in your content. "
+"This shortcode will display the associated service's requirements form."
+msgstr ""
+
+#: addons-options/general-settings.php:264
+msgid ""
+"If you want to display the customer services list on any page using a page "
+"builder, you can use the shortcode [surelywp_customer_services]. The "
+"shortcode supports a title attribute to customize the heading, and a page_id "
+"attribute to specify the page where the shortcode is placed. The page_id is "
+"crucial when using the shortcode on pages other than the default SureCart "
+"dashboard, as it ensures that the individual service links redirect to the "
+"correct URL instead of the default SureCart customer dashboard URL."
+msgstr ""
+
+#: addons-options/general-settings.php:268
+msgid ""
+"If you want to display the customer services list on any page using the "
+"WordPress block editor, you can use the Services List block. The block "
+"includes options to set a custom title and specify the page ID. The page ID "
+"is crucial when using the block on pages other than the default SureCart "
+"dashboard, as it ensures that individual service links redirect to the "
+"correct URL instead of the default SureCart customer dashboard URL."
+msgstr ""
+
+#: addons-options/import-export-tab.php:34
+msgid "Import All Settings"
+msgstr ""
+
+#: addons-options/import-export-tab.php:27
+msgid "Import Settings"
+msgstr ""
+
+#: addons-options/settings-options.php:98
+msgid "Import/Export Settings"
+msgstr ""
+
+#: includes/class-surelywp-services.php:2994
+msgid "In Progress"
+msgstr ""
+
+#: addons-options/addons-settings.php:42
+msgid "Inactive"
+msgstr ""
+
+#: addons-options/settings.php:497
+msgid "Input"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:718
+msgid "Invalid Date"
+msgstr ""
+
+#: includes/class-surelywp-sv-ie.php:116
+msgid "Invalid file upload."
+msgstr ""
+
+#: includes/class-surelywp-sv-ie.php:130
+msgid "Invalid JSON file."
+msgstr ""
+
+#: includes/class-surelywp-sv-ie.php:125
+msgid "Invalid Services Plugin Settings"
+msgstr ""
+
+#: templates/admin/service-view.php:526
+#, php-format
+msgid "Is this the %s delivery?"
+msgstr ""
+
+#: templates/admin/service-view.php:550
+msgid "Is this the final delivery?"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:451
+msgid "Items deleted (or they would be if we had items to delete)!"
+msgstr ""
+
+#: addons-options/overview.php:58 addons-options/settings-options.php:198
+msgid "License Key"
+msgstr ""
+
+#: includes/class-surelywp-services-admin.php:975
+msgid "License Key "
+msgstr ""
+
+#: addons-options/settings-options.php:199
+msgid "Licensing"
+msgstr ""
+
+#: addons-options/settings.php:749
+msgid "Limit The Number Of Revisions Allowed"
+msgstr ""
+
+#: addons-options/settings.php:53 addons-options/settings.php:69
+msgid "list_edit"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:1562
+msgid "loaded new messages"
+msgstr ""
+
+#: templates/surecart-customer-template/template-surecart-dashboard.php:125
+msgid "Log Out"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:1628
+msgid "Mail Not send."
+msgstr ""
+
+#: addons-options/addons-settings.php:72
+msgid "Manage"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:1618
+msgid "Message Mail Send Successfully."
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:1106
+msgid "Message saved"
+msgstr ""
+
+#: templates/customer-services/services.php:441
+#: templates/tabs/tabs-lists.php:14 templates/admin/service-view.php:427
+msgid "Messages"
+msgstr ""
+
+#: templates/panels/status-tracker-panel.php:86
+#: templates/admin/service-view.php:520
+msgid "Milestone"
+msgstr ""
+
+#: addons-options/settings.php:774
+msgid "Milestone Delivery (Days)"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3048
+msgid "Milestone Sent to Customer"
+msgstr ""
+
+#: addons-options/settings.php:136 addons-options/settings.php:675
+msgid "Milestones"
+msgstr ""
+
+#: addons-options/settings.php:678
+msgid ""
+"Milestones are a structured process where you can share deliverables with "
+"the customer and receive their approval or revision requests. By default, "
+"there is one delivery milestone, but you can add as many milestones as "
+"needed. Each milestone has its own title and custom settings, including "
+"whether customer approval is required, how many revisions are allowed, and "
+"the deadline for delivering the milestone."
+msgstr ""
+
+#: templates/panels/delivery-date-panel.php:20
+msgid "Minutes"
+msgstr ""
+
+#: addons-options/settings.php:334
+msgid "Monthly"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:356
+msgid "Name"
+msgstr ""
+
+#: addons-options/overview.php:109
+msgid "Need help? Browse troubleshooting tips or contact our support team."
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/customer-services/services.php:101
+#: templates/customer-services/services.php:111
+#: templates/customer-services/services.php:210
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4940
+msgid "New Message From Customer Notification Email"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4941
+msgid "New Message From Customer Regarding Order #{order_id}"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5068
+msgid "New Message From Service Provider Notification Email"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5069
+msgid "New Message From {website_name} Regarding Order #{order_id}"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4886
+msgid "New Service Order Notification Email"
+msgstr ""
+
+#: templates/admin/customer-service-block.php:60
+msgid "Next"
+msgstr ""
+
+#: templates/panels/plan-detail-panel.php:60
+msgid "Next Renewal Date:"
+msgstr ""
+
+#: addons-options/settings.php:171 addons-options/settings.php:196
+#: addons-options/settings.php:298 addons-options/settings.php:346
+#: addons-options/settings.php:374 addons-options/settings.php:434
+#: addons-options/settings.php:551 addons-options/settings.php:599
+#: addons-options/settings.php:620 addons-options/settings.php:741
+#: addons-options/settings.php:754 addons-options/general-settings.php:125
+#: addons-options/general-settings.php:148
+#: addons-options/general-settings.php:213
+#: addons-options/email-templates.php:141
+msgid "No"
+msgstr ""
+
+#. %s is the plural name of the services.
+#: includes/class-surelywp-services-admin-list-table.php:435
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: templates/tabs/contract-tab.php:50
+msgid "No contract submission was found."
+msgstr ""
+
+#: includes/class-surelywp-sv-ie.php:108
+msgid "No file uploaded."
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:1495
+msgid "not found any new message"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:1572
+msgid "not found any old messages"
+msgstr ""
+
+#: addons-options/addons-settings.php:44
+msgid "Not Installed"
+msgstr ""
+
+#: addons-options/settings.php:591
+msgid ""
+"NOTE: You can configure your allowed file type and upload preferences in the "
+"main services settings."
+msgstr ""
+
+#: addons-options/settings.php:762
+msgid "Number Of Revisions Allowed"
+msgstr ""
+
+#: addons-options/settings.php:317
+msgid "Number Of Services Allowed Based On"
+msgstr ""
+
+#: addons-options/settings.php:282
+msgid "Number Of Services Allowed Per Order"
+msgstr ""
+
+#: addons-options/settings.php:306
+msgid "Number Of Services Allowed Per Subscription Cycle"
+msgstr ""
+
+#: templates/surecart-customer-template/template-surecart-dashboard.php:94
+msgid "Open or close account menu"
+msgstr ""
+
+#: assets/js/surelywp-sv-front.js:75 assets/js/surelywp-sv-front.js:97
+#: assets/js/surelywp-sv-backend.js:218 assets/js/surelywp-sv-common.js:33
+msgid "or Browse"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:358
+#: templates/customer-services/services-list-table.php:15
+#: templates/customer-services/services-list-table.php:119
+msgid "Order"
+msgstr ""
+
+#: templates/panels/order-detail-panel.php:69
+msgid "Order Again"
+msgstr ""
+
+#: addons-options/settings.php:189
+msgid "Order Again Button"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3054
+#: includes/class-surelywp-services.php:3076
+msgid "Order Automatically Completed"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3056
+msgid "Order Canceled"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3007
+#: templates/admin/services-list-table.php:83
+msgid "Order Cancelled"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3006
+#: templates/admin/services-list-table.php:78
+msgid "Order Complete"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3053
+#: templates/panels/status-tracker-panel.php:159
+msgid "Order Completed"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3075
+msgid "Order completed"
+msgstr ""
+
+#: templates/panels/order-detail-panel.php:46
+msgid "Order Date:"
+msgstr ""
+
+#: templates/panels/order-detail-panel.php:21
+msgid "Order Details"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3055
+#: includes/class-surelywp-services.php:3077
+msgid "Order Manually Completed"
+msgstr ""
+
+#: templates/panels/order-detail-panel.php:51
+msgid "Order Number:"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3043
+#: templates/panels/status-tracker-panel.php:19
+msgid "Order Placed"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5093
+msgid "Order Update: Delivery Date Changed For Your Order For {product_name}"
+msgstr ""
+
+#: includes/class-surelywp-services-admin.php:950
+msgid "Overview"
+msgstr ""
+
+#: blocks/surelywp-sv-services-alert/src/edit.js:78
+msgid "Page ID"
+msgstr ""
+
+#: templates/panels/plan-detail-panel.php:40
+msgid "Plan Details"
+msgstr ""
+
+#: addons-options/settings-options.php:68
+msgid "please enter your license key."
+msgstr ""
+
+#: assets/js/surelywp-sv-front.js:471 assets/js/surelywp-sv-backend.js:984
+#: assets/js/surelywp-sv-common.js:132
+msgid "Please enter your message and try again."
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:362
+#: includes/class-surelywp-services-ajax-handler.php:379
+#: includes/class-surelywp-services-ajax-handler.php:395
+#: includes/class-surelywp-services-ajax-handler.php:411
+#: includes/class-surelywp-services-ajax-handler.php:1315
+#: includes/class-surelywp-services-ajax-handler.php:1332
+#: includes/class-surelywp-services-ajax-handler.php:1348
+msgid "Please Fill Required Fields."
+msgstr ""
+
+#: blocks/surelywp-sv-services-requirements-form/src/edit.js:62
+msgid "Please provide a brief description of the first requirement."
+msgstr ""
+
+#: addons-options/settings.php:418
+msgid ""
+"Please read through the contact details and terms carefully. After reviewing,"
+" kindly sign your digital signature in the field below to confirm your "
+"agreement and understanding. Your signature is required to proceed."
+msgstr ""
+
+#: templates/customer-services/services.php:424
+msgid "Please Submit The Requirements"
+msgstr ""
+
+#: addons-options/overview.php:33
+msgid "Plugin Resources"
+msgstr ""
+
+#: templates/admin/customer-service-block.php:57
+msgid "Previous"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:359
+#: templates/customer-services/services-list-table.php:16
+#: templates/customer-services/services-list-table.php:124
+#: templates/customer-services/services.php:368
+#: templates/admin/service-view.php:344
+#: templates/admin/block-service-list-table.php:13
+#: templates/admin/service-view-block.php:25
+msgid "Product"
+msgstr ""
+
+#: blocks/surelywp-sv-services-requirements-form/src/edit.js:51
+msgid "Product ID"
+msgstr ""
+
+#: addons-options/settings.php:728
+msgid ""
+"Provide a short title for this service milestone. This title will be used to "
+"identify the milestone throughout the system, including in the status "
+"tracker, activity log, and delivery records."
+msgstr ""
+
+#: blocks/surelywp-sv-services-requirements-form/src/edit.js:65
+msgid "Provide any additional details for the second requirement."
+msgstr ""
+
+#: addons-options/addons-settings.php:88
+msgid "Purchase"
+msgstr ""
+
+#: addons-options/general-settings.php:99
+msgid "Recipient Email Addresses For Services Notifications"
+msgstr ""
+
+#: addons-options/general-settings.php:120
+msgid "Redirect Customer To Service After Checkout"
+msgstr ""
+
+#. %s is the plural name of the services.
+#: templates/panels/plan-detail-panel.php:53
+#, php-format
+msgid "Remaining %s:"
+msgstr ""
+
+#: addons-options/general-settings.php:190
+msgid "Rename Customer Dashboard Tab Text"
+msgstr ""
+
+#: addons-options/general-settings.php:178
+msgid "Rename Service Singular Name"
+msgstr ""
+
+#: addons-options/general-settings.php:184
+msgid "Rename Services Plural Name"
+msgstr ""
+
+#: addons-options/general-settings.php:196
+msgid "Replace Customer Dashboard Tab Icon"
+msgstr ""
+
+#: templates/customer-services/services.php:616
+#: templates/customer-services/services.php:670
+#: templates/customer-services/services.php:760
+#: templates/customer-services/services.php:818
+msgid "Request Revisions"
+msgstr ""
+
+#: addons-options/settings.php:736
+msgid "Require Approval For Milestone Completion"
+msgstr ""
+
+#: addons-options/settings.php:544
+msgid "Required Field"
+msgstr ""
+
+#: addons-options/settings.php:566
+msgid "Requirement Description"
+msgstr ""
+
+#: addons-options/settings.php:494
+msgid "Requirement Field Type"
+msgstr ""
+
+#: addons-options/settings.php:558
+msgid "Requirement Title"
+msgstr ""
+
+#: addons-options/settings.php:133 addons-options/settings.php:427
+#: templates/tabs/requirement-tab.php:16 templates/tabs/tabs-lists.php:28
+msgid "Requirements"
+msgstr ""
+
+#: addons-options/settings.php:664
+msgid "Requirements Checkout Shortcode"
+msgstr ""
+
+#: addons-options/settings.php:658
+msgid "Requirements Form Block"
+msgstr ""
+
+#: addons-options/settings.php:633
+msgid "Requirements Form Display Location On Product Pages"
+msgstr ""
+
+#: addons-options/settings.php:652
+msgid "Requirements Form Shortcode"
+msgstr ""
+
+#: templates/panels/status-tracker-panel.php:73
+msgid "Requirements Submitted"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:437
+#: includes/class-surelywp-services-ajax-handler.php:1413
+msgid "Requirements Submitted Successfully"
+msgstr ""
+
+#: addons-options/settings-options.php:113
+msgid "Reset Settings"
+msgstr ""
+
+#: addons-options/settings-options.php:33
+msgid "Reset Settings To Default?"
+msgstr ""
+
+#: templates/panels/status-tracker-panel.php:116
+msgid "Revisions Limit Reached"
+msgstr ""
+
+#: templates/panels/status-tracker-panel.php:114
+msgid "Revisions Remaining: "
+msgstr ""
+
+#: addons-options/settings.php:353
+msgid "Rollover"
+msgstr ""
+
+#: addons-options/settings.php:358
+msgid "Rollover To Next Billing Period "
+msgstr ""
+
+#: addons-options/settings.php:127
+msgid "Rules"
+msgstr ""
+
+#: addons-options/settings-options.php:117
+#: templates/panels/delivery-date-panel.php:49
+msgid "Save Changes"
+msgstr ""
+
+#: blocks/surelywp-sv-services-requirements-form/src/edit.js:65
+msgid "Second Requirement"
+msgstr ""
+
+#: templates/panels/delivery-date-panel.php:21
+msgid "Seconds"
+msgstr ""
+
+#: templates/customer-services/requirement-form.php:99
+#: templates/tabs/requirement-tab.php:193
+msgid "Select an option"
+msgstr ""
+
+#: templates/customer-services/services.php:125
+msgid "Select Associated Order"
+msgstr ""
+
+#: templates/panels/delivery-date-panel.php:42
+msgid "Select New Delivery Date:"
+msgstr ""
+
+#: addons-options/settings.php:245
+msgid "Select Specific Product Collections"
+msgstr ""
+
+#: addons-options/settings.php:221
+msgid "Select Specific Products"
+msgstr ""
+
+#: addons-options/settings.php:318
+msgid ""
+"Select the frequency used to determine the maximum number of services "
+"allowed. You can choose between the SureCart subscription billing cycle or a "
+"custom frequency. If selecting a custom frequency, note that it must be "
+"equal to or shorter than the SureCart subscription billing period. For "
+"example, if the subscription is billed monthly, the custom frequency can be "
+"daily, weekly, or monthly."
+msgstr ""
+
+#: addons-options/general-settings.php:247
+msgid ""
+"Select the maximum file size allowed for uploads. Keep in mind that "
+"WordPress or your hosting server might have file upload limits that need to "
+"be adjusted."
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/customer-services/services.php:129
+#, php-format
+msgid "Select the order associated with the %s you want to create."
+msgstr ""
+
+#: addons-options/settings.php:246
+msgid ""
+"Select the SureCart product collection you want to associate all of its "
+"products with this service."
+msgstr ""
+
+#: addons-options/settings.php:222
+msgid "Select the SureCart products you want to associate with this service."
+msgstr ""
+
+#: addons-options/settings.php:495
+msgid ""
+"Select the type of field to use for the customer to provide the details "
+"about this requirement."
+msgstr ""
+
+#: addons-options/general-settings.php:80
+msgid ""
+"Select which user roles have permission to access services. Any user with "
+"the selected user roles will be able to view and reply to services."
+msgstr ""
+
+#: templates/admin/product-service-block.php:44
+msgid "Select.."
+msgstr ""
+
+#: templates/customer-services/services.php:134
+msgid "Select..."
+msgstr ""
+
+#: templates/customer-services/services.php:540
+#: templates/admin/service-view.php:554
+msgid "Send"
+msgstr ""
+
+#: addons-options/general-settings.php:132
+msgid "Send Customer Requirements Reminder After"
+msgstr ""
+
+#: templates/panels/delivery-date-panel.php:61
+#: templates/panels/delivery-date-panel.php:104
+msgid "Send Delivery"
+msgstr ""
+
+#: includes/class-surelywp-services.php:213
+#: includes/class-surelywp-services.php:3031
+#: addons-options/general-settings.php:180
+msgid "Service"
+msgstr ""
+
+#: addons-options/settings.php:280
+msgid "Service Creation Rules"
+msgstr ""
+
+#: templates/admin/services-list-table.php:17
+msgid "Service deleted successfully."
+msgstr ""
+
+#: addons-options/settings.php:677
+msgid "Service Milestones"
+msgstr ""
+
+#: addons-options/email-templates.php:22
+msgid "Service Provider"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4912
+msgid "Service Requirements Received Notification Email"
+msgstr ""
+
+#: includes/class-surelywp-services.php:4913
+msgid "Service Requirements Received: Order #{order_id}"
+msgstr ""
+
+#: addons-options/settings.php:146
+msgid "Service Title"
+msgstr ""
+
+#: includes/class-surelywp-services-admin.php:960
+#: includes/class-surelywp-services-admin.php:1011
+#: includes/class-surelywp-services.php:229
+#: includes/class-surelywp-services.php:1736
+#: includes/class-surelywp-services.php:3035
+#: includes/class-surelywp-services.php:3185
+#: addons-options/general-settings.php:186
+#: addons-options/general-settings.php:192
+#: templates/customer-services/order-services.php:19
+msgid "Services"
+msgstr ""
+
+#: addons-options/settings.php:26
+msgid "services"
+msgstr ""
+
+#. Name of the plugin
+#: includes/class-surelywp-services-admin.php:1010
+msgid "Services For SureCart"
+msgstr ""
+
+#: surelywp-services.php:90
+msgid ""
+"Services For SureCart For SureCart is enabled but not effective. It requires "
+"SureCart in order to work."
+msgstr ""
+
+#: addons-options/general-settings.php:267
+msgid "Services List Block"
+msgstr ""
+
+#: addons-options/general-settings.php:263
+msgid "Services List Shortcode"
+msgstr ""
+
+#: includes/class-surelywp-services-admin.php:232
+msgid "Settings"
+msgstr ""
+
+#: addons-options/overview.php:97
+msgid "Share Ideas"
+msgstr ""
+
+#: addons-options/overview.php:94
+msgid "Share your ideas and help shape the future of this plugin."
+msgstr ""
+
+#: addons-options/settings.php:191
+msgid "Show Order Again Button On Service"
+msgstr ""
+
+#: includes/class-surelywp-services-ajax-handler.php:292
+#: includes/class-surelywp-services-ajax-handler.php:446
+#: includes/class-surelywp-services-ajax-handler.php:458
+#: includes/class-surelywp-services-ajax-handler.php:524
+#: includes/class-surelywp-services-ajax-handler.php:687
+#: includes/class-surelywp-services-ajax-handler.php:768
+#: includes/class-surelywp-services-ajax-handler.php:827
+#: includes/class-surelywp-services-ajax-handler.php:1128
+#: includes/class-surelywp-services-ajax-handler.php:1241
+#: includes/class-surelywp-services-ajax-handler.php:1422
+msgid "Something went wrong please try again."
+msgstr ""
+
+#: addons-options/settings.php:216
+msgid "Specific Product Collections"
+msgstr ""
+
+#: addons-options/settings.php:214
+msgid "Specific Products"
+msgstr ""
+
+#: addons-options/settings.php:775
+msgid ""
+"Specify the maximum number of days for completing this milestone after the "
+"customer has completed the previous step. The admin is responsible for "
+"sharing the initial milestone delivery within this timeframe. The countdown "
+"timer will update accordingly to keep the admin on track. This deadline "
+"applies only to the current milestone. This deadline is for the initial "
+"delivery, and is not related to the time needed to complete any revisions "
+"requested after the initial delivery."
+msgstr ""
+
+#: addons-options/settings.php:763
+msgid ""
+"Specify the maximum number of revisions allowed for this milestone. Once "
+"this limit is reached, the customer will no longer be able to request "
+"further revisions, and after sharing the final delivery, the service will "
+"automatically move to the next step."
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/admin/service-view.php:92
+#, php-format
+msgid "Start %s"
+msgstr ""
+
+#: templates/admin/service-view.php:169
+msgid "Start Service"
+msgstr ""
+
+#: addons-options/general-settings.php:166
+msgid "Starting Service ID Number"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:360
+#: templates/customer-services/services-list-table.php:18
+#: templates/customer-services/services-list-table.php:141
+#: templates/admin/block-service-list-table.php:12
+#: templates/admin/service-view-block.php:24
+msgid "Status"
+msgstr ""
+
+#: templates/panels/status-tracker-panel.php:13
+msgid "Status Tracker"
+msgstr ""
+
+#: templates/panels/plan-detail-panel.php:67
+msgid "Status:"
+msgstr ""
+
+#: addons-options/overview.php:70
+msgid "Stay up to date with the latest features, improvements, and fixes."
+msgstr ""
+
+#: templates/customer-services/requirement-form.php:119
+#: templates/tabs/requirement-tab.php:209
+#: blocks/surelywp-sv-services-requirements-form/src/edit.js:67
+msgid "Submit"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5024
+msgid "Submit Service Requirements Notification Email"
+msgstr ""
+
+#: includes/class-surelywp-services.php:5046
+msgid "Submit Service Requirements Reminder Notification Email"
+msgstr ""
+
+#: addons-options/settings.php:320
+msgid "SureCart Subscription Billing Cycle"
+msgstr ""
+
+#. Author of the plugin
+#: blocks/surelywp-sv-services-alert/surelywp-sv-services-alert.php:36
+#: blocks/surelywp-sv-services-requirements-form/surelywp-sv-services-requirements-form.php:36
+#: blocks/surelywp-sv-customer-services/surelywp-sv-customer-services.php:34
+msgid "SurelyWP"
+msgstr ""
+
+#: includes/class-surelywp-services-admin.php:981
+msgid "SurelyWP Addons "
+msgstr ""
+
+#: addons-options/settings.php:499
+msgid "Text Area"
+msgstr ""
+
+#. %1$s: sender username or 'you' if current user is sender.
+#: templates/customer-services/service-message.php:33
+#, php-format
+msgid "The %1$s delivery has been sent by %2$s."
+msgstr ""
+
+#: templates/admin/service-view.php:326
+msgid ""
+"The countdown has started, and no additional requirements are needed from "
+"the customer."
+msgstr ""
+
+#: templates/customer-services/service-message.php:176
+#, php-format
+msgid "The customer has accepted the %1$s delivery."
+msgstr ""
+
+#: templates/customer-services/service-message.php:153
+msgid "The customer has accepted the final delivery."
+msgstr ""
+
+#: templates/admin/service-view.php:406
+msgid "The customer has not yet submitted a contract."
+msgstr ""
+
+#: templates/customer-services/service-message.php:124
+#, php-format
+msgid "The customer has requested revisions of %1$s."
+msgstr ""
+
+#: templates/customer-services/service-message.php:135
+msgid "The customer has requested revisions."
+msgstr ""
+
+#: templates/admin/service-view.php:333
+msgid ""
+"The customer has sent the required information, and the countdown has "
+"started."
+msgstr ""
+
+#: templates/tabs/requirement-tab.php:114
+msgid "The customer hasn't submitted any requirements yet."
+msgstr ""
+
+#. %1$s: sender username or 'you' if current user is sender.
+#: templates/customer-services/service-message.php:16
+#, php-format
+msgid "The final delivery has been sent by %1$s."
+msgstr ""
+
+#: templates/customer-services/services.php:485
+#: templates/customer-services/services.php:487
+#: templates/admin/service-view.php:464 templates/admin/service-view.php:467
+msgid "There are no messages."
+msgstr ""
+
+#: addons-options/settings.php:661
+msgid ""
+"This block requires a product ID if used on a non-product page. You can find "
+"the product ID by going to SureCart > Products and checking the URL of the "
+"individual product page."
+msgstr ""
+
+#. Description of the plugin
+#: includes/class-surelywp-services-admin.php:1013
+#: addons-options/overview.php:27
+msgid ""
+"This plugin empowers you to sell services and custom deliverables with "
+"SureCart. Enjoy features like status and activity tracking, built-in "
+"messaging, and final delivery and approvals, all beautifully integrated "
+"directly into your website and customer dashboard."
+msgstr ""
+
+#: addons-options/settings.php:655
+msgid ""
+"This shortcode requires a product ID if used on a non-product page. You can "
+"find the product ID by going to SureCart > Products and checking the URL of "
+"the individual product page. The product ID is visible in the URL slug in "
+"your browser address bar. An example of the shortcode would be: "
+"[surelywp_services_requirements_form product_id=\"5420a0f8-06d0-491f-9fcf-"
+"987b838c406c\"]"
+msgstr ""
+
+#: templates/panels/delivery-date-panel.php:14
+msgid "Time Left To Deliver"
+msgstr ""
+
+#: blocks/surelywp-sv-services-alert/src/edit.js:68
+msgid "Title"
+msgstr ""
+
+#. %s: Link to license input
+#: addons-options/settings-options.php:67
+#, php-format
+msgid "To begin using the plugin, %s"
+msgstr ""
+
+#: addons-options/overview.php:46
+msgid ""
+"To begin using the plugin, be sure to add your license key to enable the "
+"features."
+msgstr ""
+
+#: addons-options/settings.php:665
+msgid ""
+"To display a summary of the customer’s submitted requirements on the "
+"SureCart checkout page, use the shortcode "
+"[surelywp_services_checkout_requirements]. You can add this shortcode to the "
+"checkout form, which is editable from your SureCart > Checkout menu. When "
+"added, the shortcode will show a summary of the information entered into the "
+"service’s requirements form, ensuring clarity before purchase."
+msgstr ""
+
+#: includes/class-surelywp-services.php:172
+msgid "Transient deleted successfully."
+msgstr ""
+
+#: includes/class-surelywp-services.php:176
+msgid "Transient key not found."
+msgstr ""
+
+#: addons-options/import-export-tab.php:28
+msgid ""
+"Upload a settings file previously exported from this plugin. Importing will "
+"overwrite your current settings with the imported configuration. This action "
+"cannot be undone. Consider exporting your currents settings first as a "
+"backup."
+msgstr ""
+
+#: templates/panels/order-detail-panel.php:34
+msgid "User not found"
+msgstr ""
+
+#: addons-options/general-settings.php:79
+msgid "User Roles With Services Access"
+msgstr ""
+
+#: templates/customer-services/services.php:371
+#: templates/admin/service-view.php:348
+msgid "Variants"
+msgstr ""
+
+#: includes/class-surelywp-services-admin-list-table.php:378
+#: templates/customer-services/services-list-table.php:75
+#: templates/customer-services/services-list-table.php:165
+#: templates/admin/block-service-list-table.php:49
+#: templates/admin/service-view-block.php:57
+msgid "View"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: templates/admin/service-view.php:47
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: addons-options/overview.php:139
+msgid "View All Addons"
+msgstr ""
+
+#: addons-options/overview.php:82
+msgid "View Changelog"
+msgstr ""
+
+#: templates/customer-services/services-list-table.php:40
+#: templates/customer-services/services-list-table.php:120
+#: templates/panels/order-detail-panel.php:54
+msgid "View Order"
+msgstr ""
+
+#: templates/customer-services/services-list-table.php:45
+#: templates/customer-services/services-list-table.php:126
+#: templates/customer-services/services.php:384
+#: templates/customer-services/product-requirements.php:53
+#: templates/admin/service-view.php:363
+msgid "View Product"
+msgstr ""
+
+#: templates/tabs/activity-tab.php:136
+msgid "View Requirements"
+msgstr ""
+
+#: addons-options/overview.php:69
+msgid "View The Changelog"
+msgstr ""
+
+#: includes/class-surelywp-services.php:2997
+#: includes/class-surelywp-services.php:3004
+#: templates/admin/services-list-table.php:73
+msgid "Waiting For Approval"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3001
+#: templates/admin/services-list-table.php:58
+msgid "Waiting For Contract"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3002
+#: templates/admin/services-list-table.php:63
+msgid "Waiting For Requirements"
+msgstr ""
+
+#: templates/customer-services/services.php:425
+msgid ""
+"We need specific information to begin processing your order. Please review "
+"the requirements and provide the necessary details as soon as possible to "
+"ensure timely delivery. Once you've submitted the required information, we "
+"will start working on your order."
+msgstr ""
+
+#: addons-options/settings.php:332
+msgid "Weekly"
+msgstr ""
+
+#: addons-options/settings-options.php:55
+#, php-format
+msgid "Welcome to the %s plugin by SurelyWP!"
+msgstr ""
+
+#. %s is the plugin title.
+#: addons-options/overview.php:22
+#, php-format
+msgid "Welcome to the %s Plugin!"
+msgstr ""
+
+#: includes/class-surelywp-services.php:2996
+#: includes/class-surelywp-services.php:3003
+#: includes/class-surelywp-services.php:3005
+#: templates/panels/status-tracker-panel.php:133
+#: templates/admin/services-list-table.php:68
+msgid "Work In Progress"
+msgstr ""
+
+#: addons-options/settings.php:408
+msgid "Write a title about the digital signature needed from the customer."
+msgstr ""
+
+#: addons-options/settings.php:559
+msgid ""
+"Write a title or question about the details needed from the customer for "
+"this requirement."
+msgstr ""
+
+#: addons-options/settings.php:567
+msgid ""
+"Write an optional description to provide more information about the details "
+"needed from the customer for this requirement."
+msgstr ""
+
+#: addons-options/settings.php:416
+msgid ""
+"Write an optional description to provide more information about the digital "
+"signature needed from the customer."
+msgstr ""
+
+#: addons-options/settings.php:383
+msgid ""
+"Write the contract details which the customer must agree to by signing their "
+"digital signature."
+msgstr ""
+
+#: addons-options/settings.php:336
+msgid "Yearly"
+msgstr ""
+
+#: addons-options/settings.php:172 addons-options/settings.php:197
+#: addons-options/settings.php:299 addons-options/settings.php:347
+#: addons-options/settings.php:375 addons-options/settings.php:435
+#: addons-options/settings.php:552 addons-options/settings.php:600
+#: addons-options/settings.php:621 addons-options/settings.php:742
+#: addons-options/settings.php:755 addons-options/general-settings.php:126
+#: addons-options/general-settings.php:149
+#: addons-options/general-settings.php:214
+#: addons-options/email-templates.php:142
+msgid "Yes"
+msgstr ""
+
+#. %s is the milestone label.
+#: templates/customer-services/services.php:720
+#, php-format
+msgid "Yes, I Approve The %s delivery"
+msgstr ""
+
+#: templates/customer-services/services.php:579
+msgid "Yes, I Approve The Final Delivery"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3080
+#, php-format
+msgid "You Accepted The %s Delivery"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3074
+msgid "You Accepted The Final Delivery"
+msgstr ""
+
+#: addons-options/settings-options.php:36
+msgid ""
+"You are about to reset the plugin settings to their default state. Any "
+"change you have made will be permanently erased. Are you sure you want to do "
+"this?"
+msgstr ""
+
+#: templates/admin/service-view.php:325 templates/admin/service-view.php:332
+msgid "You can start working on the order!"
+msgstr ""
+
+#: templates/customer-services/service-message.php:181
+#, php-format
+msgid "You have accepted the %1$s delivery."
+msgstr ""
+
+#: templates/customer-services/service-message.php:155
+msgid "You have accepted the final delivery."
+msgstr ""
+
+#. %s is the plural name of the services.
+#: includes/class-surelywp-services.php:1243
+#: includes/class-surelywp-services.php:1608
+#, php-format
+msgid ""
+"You have pending %s that need your attention. Please review them promptly "
+"and take the necessary actions to ensure timely delivery."
+msgstr ""
+
+#: templates/customer-services/services.php:814
+msgid "You Have Reached Limit of the Revision"
+msgstr ""
+
+#. %s is the plural name of the services.
+#: includes/class-surelywp-services-ajax-handler.php:204
+#, php-format
+msgid "You have reached the maximum number of %s allowed for this cycle."
+msgstr ""
+
+#: includes/class-surelywp-services.php:5117
+msgid "You Have Received A Delivery For Your Service Order For {product_name}"
+msgstr ""
+
+#: templates/tabs/requirement-tab.php:213
+msgid "You haven't provide any requirements"
+msgstr ""
+
+#: templates/tabs/delivery-tab.php:131
+msgid "You haven't received any deliveries yet."
+msgstr ""
+
+#: templates/tabs/delivery-tab.php:129
+msgid "You haven't sent any deliveries yet."
+msgstr ""
+
+#: includes/class-surelywp-services.php:3079
+#, php-format
+msgid "You received the %s"
+msgstr ""
+
+#: includes/class-surelywp-services.php:3072
+msgid "You Received The Final Delivery"
+msgstr ""
+
+#. Placeholder 1 is the sender username.
+#: templates/customer-services/services.php:561
+#, php-format
+msgid "You received the final delivery from %1$s."
+msgstr ""
+
+#. Placeholder 1 is the sender username.
+#: templates/customer-services/services.php:696
+#, php-format
+msgid "You received the milestone delivery from %1$s."
+msgstr ""
+
+#: includes/class-surelywp-services.php:3073
+msgid "You Requested Revisions"
+msgstr ""
+
+#: templates/customer-services/service-message.php:126
+#, php-format
+msgid "You requested revisions of %1$s."
+msgstr ""
+
+#: templates/customer-services/service-message.php:137
+msgid "You requested revisions."
+msgstr ""
+
+#: includes/class-surelywp-services.php:3068
+msgid "You Submitted The Requirements"
+msgstr ""
+
+#: templates/tabs/contract-tab.php:38
+msgid "Your"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: includes/class-surelywp-services.php:3064
+#: includes/class-surelywp-services.php:3066
+#, php-format
+msgid "Your %s Request Has Been Received"
+msgstr ""
+
+#. %s is the singular name of the service.
+#: includes/class-surelywp-services-ajax-handler.php:181
+#: includes/class-surelywp-services-ajax-handler.php:278
+#, php-format
+msgid "Your new %s has been successfully created."
+msgstr ""
+
+#: includes/class-surelywp-services.php:3078
+msgid "Your Order Has Been Canceled"
+msgstr ""

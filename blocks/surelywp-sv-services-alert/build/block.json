@@ -1,0 +1,40 @@
+{
+  "name": "surelywp/surelywp-sv-services-alert",
+  "version": "0.1.0",
+  "title": "Services Alert",
+  "category": "surelywp",
+  "description": "Displays a Services Alert",
+  "keywords": [
+    "surelywp",
+    "services",
+    "surelywp-services",
+    "services-alert"
+  ],
+  "attributes": {
+    "title": {
+      "type": "string",
+      "selector": "div",
+      "default": "Action Required: Services Pending"
+    },
+    "description": {
+      "type": "string",
+      "selector": "div",
+      "default": "You have pending services that need your attention. Please review them promptly and take the necessary actions to ensure timely delivery."
+    },
+    "page_id": {
+      "type": "string",
+      "selector": "div",
+      "default": ""
+    }
+  },
+  "supports": {
+    "reusable": false,
+    "html": false
+  },
+  "textdomain": "surelywp-services",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php",
+  "viewScript": "file:./view.js"
+}

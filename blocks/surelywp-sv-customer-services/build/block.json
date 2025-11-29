@@ -1,0 +1,33 @@
+{
+  "name": "surelywp/surelywp-sv-customer-services",
+  "version": "0.1.0",
+  "title": "Services List",
+  "category": "surelywp",
+  "description": "Displays a list of the customer's services from the Services For SureCart addon.",
+  "keywords": [
+    "surelywp",
+    "services",
+    "surelywp-services",
+    "services-list"
+  ],
+  "attributes": {
+    "title": {
+      "type": "string",
+      "selector": "div"
+    },
+    "page_id": {
+      "type": "string",
+      "selector": "div"
+    }
+  },
+  "supports": {
+    "reusable": false,
+    "html": false
+  },
+  "textdomain": "surelywp-services",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php",
+  "viewScript": "file:./view.js"
+}

@@ -1,0 +1,678 @@
+sc-table-cell.service-id {
+    width: 65px;
+}
+
+.view-order-link,
+.view-product-link {
+    color: #2271b1 !important;
+}
+
+.services-list-table .not-found {
+    width: 200px;
+}
+
+.requirements-heading {
+    margin: 20px 0;
+}
+
+.surelywp-sv-message-form-wrap .attachment-file {
+    margin: 20px 0;
+}
+
+
+.surelywp-sv-serview-view.customer sc-card.order-track-list.hydrated sc-columns {
+    gap: 10px;
+}
+
+.services-item-list-heading .created-at {
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 1em 0;
+}
+
+.dellvery-block .icon {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+}
+
+.dellvery-block .icon img {
+    object-fit: contain;
+}
+
+.surelywp-sv-serview-view.customer .note {
+    margin: 20px 0;
+}
+
+.surelywp-sv-serview-view.customer .services-heading {
+    display: flex;
+}
+
+.surelywp-sv-serview-view.customer .services-heading sc-tag {
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.dellvery-approve .dellvery-top .loader {
+    margin: 4px;
+}
+
+.final-delivery-revision .modal-bottom {
+    margin-bottom: 20px;
+}
+
+.final-delivery-revision .approve-buttons a {
+    margin-right: 5px;
+}
+
+.final-delivery-revision .sv-error,
+.final-delivery-revision .sv-success {
+    margin-top: 13px;
+    font-size: 13px;
+}
+
+body.page-template-template-surecart-dashboard .dashboard-right>* {
+    overflow: auto;
+}
+
+@media (max-width:1199px) {
+
+    /* .services-list-table-card {
+        width: 900px;
+    } */
+
+    .service-track.view-right,
+    .view-left {
+        width: 100% !important;
+    }
+
+    body.page-template-template-surecart-dashboard .dashboard-right>* {
+        flex-wrap: wrap;
+    }
+
+}
+
+.surelywp-sv-serview-view.customer .order-track-list .description {
+    text-align: right;
+}
+
+.customer-order-services .arrow-icon {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+
+/*26-06-2024*/
+.surecart-theme-dark .services-list-table sc-table sc-table-cell,
+.surecart-theme-dark .surelywp-sv-serview-view .service-order-detail sc-table sc-table-cell {
+    background-color: initial;
+    color: inherit;
+}
+
+.surecart-theme-dark .view-order-link,
+.surecart-theme-dark .view-product-link {
+    color: inherit !important;
+}
+
+.surecart-theme-dark .surelywp-sv-serview-view .order-track-list .description {
+    color: inherit !important;
+}
+
+.surecart-theme-dark .surelywp-sv-requirements .accordion-content {
+    opacity: 1;
+    color: #fff;
+}
+
+.surecart-theme-dark .service-track-list-item {
+    color: inherit;
+}
+
+.surecart-theme-dark .service-order-detail-panel p.label {
+    color: inherit;
+}
+
+.surecart-theme-dark .surelywp-sv-requirements .accordion-question p {
+    color: inherit;
+}
+
+body.surecart-theme-dark,
+.surecart-theme-dark h1,
+.surecart-theme-dark .entry-title a,
+.surecart-theme-dark .entry-content h1,
+.surecart-theme-dark h2,
+.surecart-theme-dark .entry-content h2,
+.surecart-theme-dark h3,
+.surecart-theme-dark .entry-content h3,
+.surecart-theme-dark h4,
+.surecart-theme-dark .entry-content h4,
+.surecart-theme-dark h5,
+.surecart-theme-dark .entry-content h5,
+.surecart-theme-dark h6,
+.surecart-theme-dark .entry-content h6 {
+    color: var(--sc-color-gray-300);
+}
+
+.surecart-theme-dark .card-heading,
+.surecart-theme-dark .status-tracker-heading {
+    background-color: transparent;
+}
+
+.surecart-theme-dark .services-activity-card .row-content,
+.surecart-theme-dark .surelywp-sv-msg-content p.user-name {
+    color: inherit;
+}
+
+.surecart-theme-dark .services-activity-card .row-content .time {
+    color: inherit;
+}
+
+.surecart-theme-dark .card-heading,
+.surecart-theme-dark .status-tracker-heading {
+    background-color: transparent;
+    border-color: var(--sc-card-border-color, var(--sc-color-gray-300));
+}
+
+.surecart-theme-dark .service-track-list {
+    border-color: var(--sc-card-border-color, var(--sc-color-gray-300));
+}
+
+.surecart-theme-dark .services-chats-wrap .attachetment-title .title,
+.surecart-theme-dark .services-delivery-wrap .attachetment-title .title,
+.surecart-theme-dark .services-requirements-wrap .attachetment-title .title {
+    color: inherit;
+}
+
+.surecart-theme-dark .services-chats-wrap .attachetment-inner-wrap,
+.surecart-theme-dark .services-delivery-wrap .attachetment-inner-wrap,
+.surecart-theme-dark .services-requirements-wrap .attachetment-inner-wrap,
+.surecart-theme-dark .chat-inputs-wrap,
+.surecart-theme-dark .services-chats-wrap .attachetment-title,
+.surecart-theme-dark .services-delivery-wrap .attachetment-title,
+.surecart-theme-dark .services-requirements-wrap .attachetment-title {
+    border-color: var(--sc-card-border-color, var(--sc-color-gray-300));
+}
+
+.surecart-theme-dark .services-chats-wrap .attachetment-title .attachetment-buttons .download-arrow,
+.surecart-theme-dark .services-delivery-wrap .attachetment-title .attachetment-buttons .download-arrow,
+.surecart-theme-dark .services-requirements-wrap .attachetment-title .attachetment-buttons .download-arrow {
+    filter: brightness(0) invert(1);
+}
+
+.surecart-theme-dark .surelywp-sv-msg-content .msg {
+    background-color: transparent;
+    color: #fff;
+}
+
+.surecart-theme-dark .services-chats-wrap .attachetment h3,
+.surecart-theme-dark .services-delivery-wrap .attachetment h3,
+.surecart-theme-dark .services-requirements-wrap .attachetment h3 {
+    color: inherit;
+}
+
+.surecart-theme-dark .service-track-list sc-text.hydrated.active .service-track-list-item {
+    color: rgb(255 255 255 / 64%);
+}
+
+.surecart-theme-dark .services-activity-card sc-stacked-list.hydrated sc-stacked-list-row,
+.surecart-theme-dark .surelywp-sv-requirements .accordion .accordion-item {
+    border-bottom: 1px solid var(--sc-card-border-color);
+}
+
+.surecart-theme-dark .services-activity-card sc-stacked-list.hydrated:last-child sc-stacked-list-row,
+.surecart-theme-dark .surelywp-sv-requirements .accordion .accordion-item:last-child {
+    border-bottom: 0;
+}
+
+.surecart-theme-dark .service-track-list sc-text.hydrated .check-circle {
+    background-color: #767676;
+}
+
+.services-item-list-heading-text {
+    padding-top: 3px;
+    font-size: var(--sc-dashbaord-module-heading-size, var(--sc-font-size-x-large));
+    font-weight: var(--sc-dashbaord-module-heading-weight, var(--sc-font-weight-bold));
+    line-height: var(--sc-dashbaord-module-heading-line-height, var(--sc-line-height-dense));
+    white-space: nowrap;
+    font-family: var(--sc-font-sans);
+}
+
+.services-item-list-heading-wrap {
+    margin-bottom: 15px;
+}
+
+.surelywp-sv-contract-form-wrap .contract-details {
+    max-height: 600px;
+    overflow: auto;
+}
+
+.surelywp-sv-contract-form-wrap .contract-details::-webkit-scrollbar {
+    width: 6px
+}
+
+.surelywp-sv-contract-form-wrap .contract-details::-webkit-scrollbar-thumb {
+    background: var(--sc-color-primary-500);
+    border-radius: 4px
+}
+
+.surelywp-sv-contract-form-wrap .contract-title {
+    font-family: 'Open Sans' !important;
+    font-weight: 700 !important;
+    line-height: 20px !important;
+    font-size: 18px;
+    color: #1f2937;
+}
+
+/* Notification count */
+.customer-service-notification-icon {
+    display: inline-flex;
+    position: static;
+    margin-left: 5px;
+    font-size: 15px;
+    min-width: 22px;
+    height: 22px;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    background: red;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    font-weight: bold;
+}
+
+.surelyp-sv-customer-services-block .surelywp-sv-serview-view.customer {
+    margin: 0 !important;
+}
+
+.surelyp-sv-customer-services-block .surelywp-sv-serview-view.customer a{
+    text-decoration: none;
+}
+.surelyp-sv-customer-services-block .surelywp-sv-serview-view.customer .accordion-content {
+    margin-left: 35px;
+}
+
+.dashboard-left sc-tab[aria-label="Services"] {
+    position: relative;
+}
+
+.services-requirements-wrap .filepond--file-status-sub{
+    display: none;
+}
+
+.surelywp-sv-serview-view.customer .surelywp-sv-msg a{
+    color: var(--ast-global-color-0);
+} 
+
+#wp-delivery-revision-msg-text-wrap {
+    margin-bottom: 15px;
+}
+
+@media only screen and (min-width: 1024px) {
+
+    #services-list-table sc-table .service-status {
+        width: 200px;
+    }
+
+    #services-list-table sc-table .service-details {
+        width: 115px;
+    }
+
+}
+
+
+/* Styles for devices with a maximum width of 480px (mobile) */
+@media only screen and (max-width: 480px) {
+    /* Add your mobile-specific CSS here */
+    #services-list-table sc-table {
+        font-size: 12px;
+    }
+
+    #services-list-table .service-view-btn{
+        font-size: 9px;
+    }
+
+    #services-list-table .service-details {
+        width: 70px;
+    }
+
+    #services-list-table .service-id {
+        width: 50px;
+    }
+
+    .sv-user-services-paginate {
+        font-size: 11px;
+    }
+
+    .create-new-service-btn {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+    
+    /* Add your tablet-specific CSS here */
+    #services-list-table sc-table {
+        font-size: 13px;
+    }
+
+    #services-list-table .service-view-btn {
+        font-size: 10px;
+    }
+
+    #services-list-table .service-id {
+        width: 50px;
+    }
+
+    .sv-user-services-paginate {
+        font-size: 11px;
+    }
+
+    .create-new-service-btn {
+        font-size: 10px;
+    }
+
+    .surelywp-sv-request-service-form-submit-btn {
+        font-size: 10px;
+    }
+}
+
+.sv-tag {
+    font-size: 10px;
+    border-radius: var(--sc-input-border-radius-medium);
+    padding: 4px;
+    border: none;
+    white-space: normal;
+    user-select: none;
+    cursor: pointer;
+    font-weight: var(--sc-font-weight-bold);
+}
+
+.sv-tag-warning {
+    background-color: var(--sc-color-warning-100);
+    border-color: var(--sc-color-warning-200);
+    color: var(--sc-color-warning-700);
+}
+.sv-tag-danger {
+    background-color: var(--sc-color-danger-100);
+    border-color: var(--sc-color-danger-200);
+    color: var(--sc-color-danger-700);
+}
+.sv-tag-success {
+    background-color: var(--sc-color-success-100);
+    border-color: var(--sc-color-success-200);
+    color: var(--sc-color-success-700);
+}
+
+.order-track-list .buy-button .wp-block-button .sc-button {
+    height: 36.3867px;
+    display: flex;
+    justify-content: center;
+    background-color: var(--sc-color-primary-500);
+    border-color: var(--primary-background);
+    color: var(--sc-color-primary-text) !important;
+    text-decoration: none !important;
+    font-family: var(--sc-font-sans);
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 34.4px;
+    border-radius: 5px;
+    padding: 0
+}
+
+.order-track-list .buy-button .wp-block-button .sc-button .sc-button__link-text {
+    padding-top: 1px;
+}
+
+.order-track-list .buy-button .wp-block-button .sc-button:hover {
+   opacity: .8;
+}
+
+.surecart-theme-dark .final-delivery-approve .modal-content, .surecart-theme-dark .final-delivery-revision .modal-content {
+    background: black !important;
+}
+
+.service-requirement-desc {
+    border: 2px solid #F1F5F9 !important;
+    border-radius: 5px !important;
+    border-spacing: 0;
+    background: #fff !important;
+    font-family: 'Open Sans';
+    color: #4c5866;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.service-requirement-text {
+    border: 2px solid #F1F5F9 !important;
+    border-radius: 5px !important;
+    background: #fff !important;
+    font-family: 'Open Sans';
+    color: #4c5866 !important;
+    border-spacing: 0;
+    width: 100%;
+    clear: both;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+
+.service-requirement-text:focus {
+    border-color: #06f !important;
+    box-shadow: none !important;
+    color: #111 !important;
+}
+
+.service-requirement-desc.normal:focus {
+    border-style: groove;
+    border-color: #06f !important;
+    box-shadow: none !important;
+    color: #111 !important;
+}
+
+.services-item-list-heading-wrap {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.new-service-request {
+    overflow: hidden !important;
+    height: 600px;
+}
+
+.order-plan-detail .label.remaining-sv {
+    width: 190px;
+}
+
+.services-item-list .sv-list-btns {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.services-item-list .services-remaining {
+    font-size: 16px;
+    color: #334155;
+    padding: 6px 12px;
+}
+
+.surelyp-service-block {
+    border: 1px solid var(--sc-divider-border-top-color, var(--sc-color-gray-200));
+    border-radius: 8px;
+    background: #fff;
+    margin-bottom: 15px;
+}
+
+.surelyp-service-block .surelyp-service-item {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--sc-divider-border-top-color, var(--sc-color-gray-200));
+    padding: 5px 20px;
+}
+
+.surelyp-service-block .surelyp-service-item .surelyp-service-label {
+    font-weight: 600;
+}
+
+.surelyp-service-block .surelyp-service-item:last-child {
+    border-bottom: none;
+}
+
+@media screen and (max-width: 767px) {
+	.services-item-list .services-remaining {
+	    font-size: 13px;
+	}
+
+	.services-item-list-heading-wrap { align-items: center; }
+	.services-item-list-heading { margin-bottom: 0 !important; }
+
+}
+
+/* For the settings description start */
+.surelywp-options-reset,
+.surelywp-ric-settings-reset,
+.surelywp-field-label .overview-page p,
+.surelywp-ric-settings-box .grid-view .grid-view-wrap .inner .header-wrap span.not-install-text,
+.surelywp-ric-settings-box .grid-view-wrap .description,
+.surelywp-ric-settings-box-wrap label,
+.toggleSwitch>span span:first-of-type .surelywp-admin-panel-content-wrap label,
+.changelog-list .changelog-title .changelog-sublist,
+.changelog-list .changelog-title .changelog-sublist li:before {
+    color: #4C5866 !important;
+}
+/* For the settings description end */
+
+.service-delivery-panel{
+    margin-top: 20px;
+}
+.service-delivery-panel .timer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.service-delivery-panel .timer .label {
+    display: block;
+}
+
+.surelywp-sv-serview-view.admin .note {
+    margin-bottom: 20px;
+}
+
+.exdent-delivery-date .approve-buttons {
+    margin: 20px 0;
+}
+
+.exdent-delivery-date .delivery-time-wrap label {
+    font-size: 15px;
+}
+
+.exdent-delivery-date .approve-buttons a {
+    margin-right: 5px;
+}
+
+.delivery-now .approve-buttons a,
+.confirm-service-update .approve-buttons a {
+    margin-right: 5px;
+}
+
+.delivery-now .delivery-now-wrap {
+    margin-bottom: 20px;
+}
+
+.delivery-now .file-upload::before {
+    top: 13px !important;
+}
+
+.delivery-now .file-upload::after {
+    top: 15px !important;
+}
+
+
+.service-delivery-card.tab-card .timer {
+    text-align: center;
+    justify-content: inherit;
+}
+
+.service-delivery-card.tab-card .timer>div {
+    width: 25%;
+    position: relative;
+    font-size: 15px;
+    line-height: normal;
+}
+
+.service-delivery-card.tab-card .timer>div:after {
+    content: '';
+    height: 24px;
+    width: 1px;
+    background-color: #ddd;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.service-delivery-card.tab-card .timer>div:last-child:after {
+    content: none;
+}
+
+.service-delivery-card.tab-card .timer>div .count {
+    font-size: 20px;
+    line-height: normal;
+    font-weight: 600;
+}
+
+
+
+.service-delivery-panel p {
+    margin-bottom: 0 !important;
+    margin: 0;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 10px;
+    text-align: left
+}
+
+.service-delivery-panel .tab-card sc-columns {
+    padding: 3px 15px;
+}
+
+.service-delivery-panel .tab-card sc-columns>* {
+    font-size: 12px !important
+}
+
+.service-delivery-panel .order-track-list.tab-card .buy-button {
+    width: 90%;
+    margin: 0 auto 20px
+}
+
+.service-delivery-panel .tab-card sc-stacked-list.hydrated sc-columns {
+    padding: 0
+}
+
+.service-delivery-panel .order-track-list.tab-card sc-columns {
+    gap: 0;
+}
+
+.service-delivery-panel .order-track-list.tab-card {
+    padding-top: 20px
+}
+
+.service-requirement-dropdown {
+    outline: none;
+    border-radius: 6px;
+    width: 100%;
+    color: #4c5866;
+    max-width: 100%;
+    margin: 5px 0 0;
+    background: #fff url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M5%206l5%205%205-5%202%201-7%207-7-7%202-1z%22%20fill%3D%22%23555%22%2F%3E%3C%2Fsvg%3E) no-repeat right 5px top 55%;
+    background-size: 16px 16px;
+    cursor: pointer;
+    vertical-align: middle;
+    -webkit-appearance: none;
+}
